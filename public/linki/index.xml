@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linkis on Przydatne Linki</title>
+    <link>https://reszt.xyz/linki/</link>
+    <description>Recent content in Linkis on Przydatne Linki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>PL-pl</language>
+    <lastBuildDate>Fri, 19 Feb 2021 00:39:38 +0100</lastBuildDate><atom:link href="https://reszt.xyz/linki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pomoc Zdalna</title>
+      <link>https://reszt.xyz/linki/pomoc-zdalna/</link>
+      <pubDate>Fri, 19 Feb 2021 00:39:38 +0100</pubDate>
+      
+      <guid>https://reszt.xyz/linki/pomoc-zdalna/</guid>
+      <description>Anydesk</description>
+    </item>
+    
+    <item>
+      <title>Przydatne Narzędzia</title>
+      <link>https://reszt.xyz/linki/narz%C4%99dzia/</link>
+      <pubDate>Fri, 19 Feb 2021 00:39:38 +0100</pubDate>
+      
+      <guid>https://reszt.xyz/linki/narz%C4%99dzia/</guid>
+      <description>Moje IP
+ Moje IP 2
+ ProduKey</description>
+    </item>
+    
+    <item>
+      <title>Virtual Private Network</title>
+      <link>https://reszt.xyz/linki/vpn/</link>
+      <pubDate>Fri, 19 Feb 2021 00:39:38 +0100</pubDate>
+      
+      <guid>https://reszt.xyz/linki/vpn/</guid>
+      <description>OpenVPN  Windows 7/8/8.1
+ Windows 10
+Shrew Soft VPN  Shrew Soft VPN Client for Windows 2.2.2-release
+Cisco VPN  Cisco VPN Client 64Bit Version
+ Windows 10 FIX</description>
+    </item>
+    
+    <item>
+      <title>Antywirus</title>
+      <link>https://reszt.xyz/linki/eset/</link>
+      <pubDate>Fri, 29 Jan 2021 01:15:00 +0100</pubDate>
+      
+      <guid>https://reszt.xyz/linki/eset/</guid>
+      <description>ESET  ESET Endpoint 64-bit
+ ESET Endpoint 32-bit
+ ESET NOD32 Antivirus 32-bit
+ ESET NOD32 Antivirus 64-bit
+ Inne Wersje</description>
+    </item>
+    
+  </channel>
+</rss>
